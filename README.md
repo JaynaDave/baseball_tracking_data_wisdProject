@@ -17,6 +17,7 @@ This project takes baseball tracking data and specifically looks at five differe
 ### Executing program
 
 * Navigate in your terminal to where you have installed the code
+* Run code:
 ```
-python3 wsdiProject.py '<path_to_directory_with_tracking_files>'
+python3 wisdProject.py '<path_to_directory_with_tracking_files>'
 ```
